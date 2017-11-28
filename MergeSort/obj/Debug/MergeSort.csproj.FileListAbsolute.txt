@@ -1,0 +1,7 @@
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
